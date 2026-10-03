@@ -1,0 +1,19 @@
+{
+  "now": 10,
+  "deadline": 20,
+  "minimum_output": 90,
+  "offers": [
+    {
+      "id": "a",
+      "output": 100,
+      "cost": 5,
+      "expiry": 20
+    },
+    {
+      "id": "b",
+      "output": 110,
+      "cost": 2,
+      "expiry": 9
+    }
+  ]
+}

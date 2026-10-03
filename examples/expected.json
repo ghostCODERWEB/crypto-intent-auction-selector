@@ -1,0 +1,20 @@
+{
+  "offers": [
+    {
+      "eligible": true,
+      "id": "a",
+      "net_output": 95,
+      "reasons": []
+    },
+    {
+      "eligible": false,
+      "id": "b",
+      "net_output": 108,
+      "reasons": [
+        "offer_expired"
+      ]
+    }
+  ],
+  "winner": "a",
+  "winning_output": 95
+}
